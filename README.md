@@ -1,90 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ana&fontSize=80&fontColor=ffffff&animation=twinkling" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header" width="100%" alt="Header" />
+
+</div>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedora+Backend+J%C3%BAnior;Java+%7C+Spring+Boot+%7C+APIs+REST;Apaixonada+por+c%C3%B3digo+limpo+e+bem+testado" alt="Typing SVG" />
+## 🎯 About Me
 
-</div>
+Sou desenvolvedora Backend Júnior com foco em Java e Spring Boot. Gosto de construir APIs REST organizadas, com código limpo, camadas bem definidas e testes automatizados. Tenho interesse em bancos de dados relacionais, containerização com Docker e boas práticas de desenvolvimento.
 
----
+Estou sempre estudando e melhorando meus projetos, e busco uma oportunidade em que eu possa crescer junto com um time que valorize qualidade de código e colaboração.
 
-## 🎯 Sobre mim
+Fique à vontade para explorar meus repositórios e entrar em contato!
 
-```java
-public class Ana {
+<br>
 
-    String cargo    = "Desenvolvedora Backend Júnior";
-    String foco     = "Java · Spring Boot · APIs REST";
-    String bancos   = "PostgreSQL · MySQL";
-    String infra    = "Docker · Git · Linux";
-    String objetivo = "Construir sistemas backend escaláveis e bem testados";
-}
-```
-
-> "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
-
----
-
-## 📬 Conecte-se comigo
+## 📬 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-0729a9448)
+<img src="https://img.shields.io/badge/DISCORD-annasb01-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: annasb01" />
 
 </div>
 
----
+<br>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,linux,maven,postman,intellij,vscode" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,git,github,linux,maven,postman,intellij,vscode,js,html,css" alt="Tech stack" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" alt="JUnit" />
 
 </div>
 
----
-
-## 🚀 Projetos em destaque
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [Nome do projeto 1](#) | API REST para gerenciamento de ... | Java, Spring Boot, PostgreSQL |
-| [Nome do projeto 2](#) | Sistema de ... com autenticação JWT | Java, Spring Security, MySQL |
-| [Nome do projeto 3](#) | Aplicação CRUD com testes unitários | Java, JUnit, Docker |
-
----
+<br>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=annasb-oss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasb-oss&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=annasb-oss&theme=react-dark&hide_border=true&area=true" alt="Activity graph" />
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=annasb-oss&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=annasb-oss&theme=darkhub&no-frame=true&column=7" alt="GitHub trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Obrigada por visitar meu perfil! ⭐
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=annasb-oss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annasb-oss&layout=donut&theme=tokyonight&hide_border=true" alt="Top languages" /></td>
+  </tr>
+</table>
 
 </div>
