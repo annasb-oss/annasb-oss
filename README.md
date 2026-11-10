@@ -2,17 +2,11 @@
 
 <img src="banner.jpg" width="100%" alt="Banner" />
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<h1>Olá 👋 Eu sou a Ana</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Ol%C3%A1+eu+sou+Ana" alt="Olá eu sou Ana" />
 
 </div>
-
----
 
 ## 🔗 Sobre mim
 
@@ -42,8 +36,6 @@ Estou sempre estudando e melhorando meus projetos, e busco uma oportunidade em q
   </tr>
 </table>
 
----
-
 ## 🔗 Conecte-se
 
 <div align="center">
@@ -51,16 +43,16 @@ Estou sempre estudando e melhorando meus projetos, e busco uma oportunidade em q
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-0729a9448)
 <img src="https://img.shields.io/badge/DISCORD-annasb01-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: annasb01" />
 
+<br>
+
+<i>Aprender é um processo contínuo: cada commit é um pequeno passo à frente, e cada erro vira uma lição.</i>
+
 </div>
-
-> Aprender é um processo contínuo: cada commit é um pequeno passo à frente, e cada erro vira uma lição.
-
----
 
 ## 🔗 Contribuições
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=annasb-oss&theme=react-dark&hide_border=true&area=true" alt="Contribution graph" />
+<img src="escorpiao.svg" width="100%" alt="Constelação de Escorpião" />
 
 </div>
